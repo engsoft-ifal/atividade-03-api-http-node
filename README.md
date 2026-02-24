@@ -44,9 +44,9 @@ Os dados deverão ser armazenados em memória (array).
 
 Edite esta seção antes de iniciar.
 
-Nome completo:
-Matrícula:
-Variação calculada:
+Nome completo: <SEU NOME COMPLETO>
+Matrícula: 000000000
+Variação calculada: 0
 
 Cálculo da variação:
 Último dígito da matrícula % 4
